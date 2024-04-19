@@ -32,8 +32,8 @@ Please submit the following:
 
 ## Evaluation Criteria
 Your submission will be evaluated based on the following criteria:
-- Clarity and organization of the code.
-- Correctness of the model implementation.
-- Accuracy and thoroughness of the model evaluation.
-- Explanation of the approach and choice of model.
+- Clarity and organization of the code. (10%)
+- Correctness of the model implementation. (50%)
+- Accuracy and thoroughness of the model evaluation. (20%)
+- Explanation of the approach and choice of model. (20%)
 
